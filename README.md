@@ -1,4 +1,4 @@
-# Smart OTA Firmware Update & Device Monitoring System
+# ESP32: Smart OTA Firmware Update & Device Monitoring System
 ## Project Objective
   Imagine 10,000 devices deployed in factories. You cannot:
   1. Physically cannot USB
